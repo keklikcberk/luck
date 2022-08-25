@@ -1,0 +1,41 @@
+.başlık {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.çok {
+  text-align: center;
+  display: inline-block;
+  width: 60%;
+
+}
+
+body {
+  background-color: #002B5B;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Kalam', cursive;
+  font-size: 10rem;
+  color: #E8F9FD;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #E8F9FD;
+  font-family: 'Permanent Marker', cursive;
+}
+
+img {
+  width: 30%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #E8F9FD;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+
+}
